@@ -1,0 +1,6 @@
+echo off
+cls
+echo START ... 
+echo ... ARIS-AnniversairesProcessXCL-O2Switch-MailJet.py ...
+python ARIS-AnniversairesProcessXCL-O2Switch-MailJet.py
+echo ... END
